@@ -1,0 +1,55 @@
+// Define variables for your color scheme
+
+// For example:
+$red: #FD1015;
+$blue: #167FFB;
+$yellow: #FFC65A;
+$orange: #E67E22;
+$green: #1EDD88;
+$gray: #0E0000;
+$light-gray: #F4F4F4;
+
+$mountain-meadow: #21C093;
+$turquoise: rgb(118, 242, 238);
+$turquoise-transparent: rgba(118, 242, 238, 0.1);
+$taupe: #6b5f5f;
+
+$light-yellow: #FEDA97;
+// $light-orange: #FFC2B8;
+// $light-primary: #FBEEFB;
+$light-blue: #DAFCFB;
+
+$dark-yellow: #F9A11B; //rgb(249,161,27)
+$dark-orange: #CE4933;
+$dark-primary: #8F2D56;
+$dark-blue: #274555; //rgb(33,69,85)
+
+$titles-h1: $mountain-meadow;
+$titles-h3: rgba(0, 0, 0, 0.6);
+
+
+$itr-green: #84BF7A; //rgb(132,191,122)
+$itr-grey: #818181; //rgb(129,129,129)
+$itr-light-blue: #21B6C0; //rgba(33,182,192,0.15)
+
+$clear-blue: #9cd4f7;
+$light-blue: #337ab7;
+
+$docker-background-light: #D3D4D4; // rgb(211,212,212)
+$docker-background-dark: #0F1C25; //links hover rgb(15,28,37)
+
+$docker-background-clear-blue: #9cd4f7; // rgb(156,212,247)
+$docker-background-light-blue: #337ab7; // rgb(51,122,183)
+$docker-background-light-blue2: #2089C4; //links rgb(32,137,196)
+
+$docker-background-blue: #031F30; //(rgb(3, 31, 48))
+$docker-background-dark-blue: #101C24; //rgb(16, 28, 36)
+
+$docker-background-link: #0a151a; //links hover rgb(10,21,26)
+
+
+$docker-font-color-light: $docker-background-light;
+$docker-font-color-clear-blue: $docker-background-clear-blue;
+$docker-font-color-light-blue: $docker-background-light-blue;
+$docker-font-color-light-blue2: $docker-background-light-blue2;
+$docker-font-color-dark-blue: $docker-background-dark-blue;
