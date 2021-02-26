@@ -35,7 +35,7 @@ $ docker build --build-arg USER_ID=$(id -u) --build-arg GROUP_ID=$(id -g) -t $DO
 ```
 Common rails commands
 ```docker-compose run yarn add bootstrap
- docker-compose run rails add bootstrap
+ docker-compose run drkiq rails add bootstrap
  docker-compose run drkiq rails bootstrap:install
  docker-compose run drkiq yarn add bootstrap
  docker-compose run drkiq rails bundle install
